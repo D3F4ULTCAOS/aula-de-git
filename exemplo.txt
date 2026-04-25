@@ -4,6 +4,6 @@ nova modificação
 uma nova linha
 nova alteração que talvez de conflito, no remoto
 Alteração feita local, talvez dê ruim
-versao 1.0
+versao 1.2
 alteração feita pelo github
 nova alteração na linha 6
