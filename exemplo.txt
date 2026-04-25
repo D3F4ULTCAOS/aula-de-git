@@ -3,6 +3,7 @@ nova alteração na linha 2
 nova modificação
 uma nova linha
 nova alteração que talvez de conflito, no remoto
+Alteração feita local, talvez dê ruim
 versao 1.0
 alteração feita pelo github
 nova alteração na linha 6
