@@ -8,3 +8,4 @@ versao 1.2
 alteração feita pelo github
 nova alteração na linha 6
 aqui está a nova funçao, mas ainda está quebrado!
+outro modificação pelo github
